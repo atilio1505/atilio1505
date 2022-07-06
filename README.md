@@ -2,9 +2,9 @@
 # Atilio H. Correia
 
 ## 🚀 Sobre mim
-Extrovertido, criativo e atencioso. Desenvolvedor apaixonado em Layouts bonitos com resultados. Sempre Atualizado com as últimas notícias e ferramentas do mundo de marketing e desenvolvimento. Alta dominação em programação Front-end, Back-end, Bootstrap responsivo e de código limpo. Humor é a primeira regra para ser feliz.
+Extrovertido, criativo e atencioso. Desenvolvedor apaixonado em Layouts bonitos com funcionalidade. Alta dominação em programação Front-end, Back-end, Bootstrap responsivo e de código limpo. Humor é a primeira regra para ser feliz.
 
-Focado no mundo do desenvolvimento voltado para WEB com mais de 4 anos de experiência na área de Desenvolvimento! Amplo conhecimento de mercado e coordenação de equipes. Com alto interesse por desenvolvimento desde cedo.
+Focado no mundo do desenvolvimento voltado para WEB com mais de 4 anos de experiência na área! Amplo conhecimento de mercado e coordenação de equipes.
 
 <br/>
 
