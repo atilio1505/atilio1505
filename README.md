@@ -31,7 +31,7 @@ Focado no mundo do desenvolvimento voltado para WEB com mais de 4 anos de experi
 
 ![Progress](https://progress-bar.dev/55/?title=SEO)
 
-![Progress](https://progress-bar.dev/35/?title=CSharp)
+![Progress](https://progress-bar.dev/70/?title=CSharp)
 
 <br/>
 
