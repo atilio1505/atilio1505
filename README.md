@@ -53,6 +53,11 @@ Focado no mundo do desenvolvimento voltado para WEB com mais de 4 anos de experi
 
 <br/>
 
+## • Codewars Stats
+​![​Codewars​](https://www.codewars.com/users/Atilio%20henrique%20Correia/badges/large) 
+
+<br/>
+
 ## • Design
 
 ​![​Photosho​](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
