@@ -43,13 +43,15 @@ Focado no mundo do desenvolvimento voltado para WEB com mais de 4 anos de experi
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![CSharp](https://img.shields.io/badge/csharp-%23777BB4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <br/>
 
 ## • Editores
 
-​![​CodeSandBox​](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white) ​![​Visual​Studio​Code​](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+​![​CodeSandBox​](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white) ​![​Visual​Studio​Code​](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![​Visual​Studio​](https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 <br/>
 
